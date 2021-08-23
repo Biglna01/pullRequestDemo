@@ -3,6 +3,4 @@
 
 Testing changes again!
 
-Make a change
-
-Charge Part 2
+Making My Edits
